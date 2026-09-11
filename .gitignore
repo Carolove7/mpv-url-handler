@@ -1,2 +1,5 @@
+/target
+/dist
+*.zip
 *.log
 *.tmp
